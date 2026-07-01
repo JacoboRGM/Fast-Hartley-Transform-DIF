@@ -68,7 +68,22 @@ O(Nlog_2(N))
 instead of the direct transform:
 
 \[
+
 O(N^2)
 \]
 
 For:
+
+
+the transform requires:
+
+\[
+2048 \times 11
+\]
+
+butterfly stages.
+
+---
+
+# Project Structure
+
